@@ -1,32 +1,30 @@
 import React from "react";
 import "./App.css";
 import Fololdal from "./components/Fooldal";
-import Aloldal from "./components/Aloldal";
-import {
-  BrowserRouter as Router,
-  Routes,
-  Route,
-  BrowserRouter,
-  Link,
-} from "react-router-dom";
-import Nav from "./components/Nav";
 import Marvel from "./components/Marvel";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import Nav from "./components/Nav";
+import CaptainMarvel from "./components/CaptainMarvel";
 import Reklam from "./components/Reklam";
 import Contact from "./components/Contact";
+import Kezdolap from "./components/Kezdolap";
+import DC from "./components/DC";
 
 function App() {
   return (
     <>
-      <BrowserRouter>
+      <Router>
         <Reklam />
         <Contact />
         <Nav />
         <Routes>
+          <Route exact path="/" element={<Kezdolap />} />
           <Route path="/fooldal" element={<Fololdal />} />
-          <Route path="/aloldal" element={<Aloldal />} />
-          <Route path="/Marvel" element={<Marvel />} />
+          <Route path="/marvel" element={<Marvel />} />
+          <Route path="/dc" element={<DC />} />
+          <Route path="/captainmarvel" element={<CaptainMarvel />} />
         </Routes>
-      </BrowserRouter>
+      </Router>
     </>
   );
 }

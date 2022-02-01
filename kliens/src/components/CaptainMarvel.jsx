@@ -1,8 +1,10 @@
+import "../Stilus.css";
+
 const CaptainMarvel = () => {
   return (
     <div className="container">
       <div className="row">
-        <div className="col-sm-6">
+        <div className="col-sm-5">
           <div className="kep">
             <img
               src="kepek/Amerika.jfif"
@@ -13,8 +15,10 @@ const CaptainMarvel = () => {
             />
           </div>
         </div>
-        <div className="col-sm-6">
+        <div className="col-sm-7">
           <div className="leiras">
+            <span className="kicsi">-47%</span>
+            <span className="nagy">Készleten</span>
             <h1>Amerika Kapitány</h1>
             <h4>Részletek</h4>
             <ul>

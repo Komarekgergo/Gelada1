@@ -1,0 +1,17 @@
+.kicsi {
+  background-color: red;
+  color: white;
+  padding: 3px;
+  margin: 3px;
+}
+
+.nagy {
+  background-color: green;
+  color: white;
+  padding: 3px;
+  margin: 3px;
+}
+
+.leiras {
+  padding: 20px;
+}

@@ -11,7 +11,7 @@ const reklamStilus = {
 
 const Reklam = () => {
   return <div style={reklamStilus}>
-      Februári AKCIÓ!! Star Wars figurákra 10%!! Kedvezmény!!
+      Márciusi AKCIÓ!! Star Wars termékekre 10%!! Kedvezmény!!
   </div>;
 };
 

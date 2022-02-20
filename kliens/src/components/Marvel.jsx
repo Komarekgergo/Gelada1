@@ -9,18 +9,18 @@ const Marvel = () => {
           <div className="keptarto">
             <Link to="/CaptainMarvel">
               <img
-                src="kepek/Amerika.jfif"
+                src="kepek Marvel/Amerika.jpg"
                 alt="Amerika Kapitany"
                 className="img-thumbnail"
               />
             </Link>
           </div>
           <div className="szovegtarto">
-            <h4>Amerika Kapitány</h4>
+            <h4>Amerika Kapitány Persely</h4>
             <ul>
-              <li>Ár: 2500Ft</li>
+              <li>Ár: 4.999ft</li>
               <li>Anyag: Műanyag</li>
-              <li>Méret: 10cm</li>
+              <li>Méret: 15cm</li>
             </ul>
             <div>
               Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cumque
@@ -33,14 +33,14 @@ const Marvel = () => {
 
         <div className="col-sm-6">
           <div className="keptarto">
-            <img src="kepek/AmerikaVas.jfif" alt="teszta" />
+            <img src="kepek Marvel/AmerikaVas.jpg" alt="Marvel" />
           </div>
           <div className="szovegtarto">
-            <h4>Amerika Kapitány + Vasember</h4>
+            <h4>Marvel férfi felső</h4>
             <ul>
-              <li>Ár: 5000t</li>
-              <li>Anyag: Műanyag</li>
-              <li>Méret: 10cm</li>
+              <li>Ár: 4.999ft</li>
+              <li>Anyag: Pamut</li>
+              <li>Méret: M, felnőtt méret (férfi)</li>
             </ul>
             <div>
               Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cumque
@@ -53,13 +53,13 @@ const Marvel = () => {
 
         <div className="col-sm-6">
           <div className="keptarto">
-            <img src="kepek/Avengers.jfif" alt="Avengers" />
+            <img src="kepek Marvel/Avengers.jpg" alt="Avengers" />
           </div>
           <div className="szovegtarto">
-            <h4>Bosszúállók készlet</h4>
+            <h4>Bosszúállók Puzzle</h4>
             <ul>
-              <li>Ár: 17.500t</li>
-              <li>Anyag: Műanyag</li>
+              <li>Ár: 4.499ft</li>
+              <li>Anyag: Papír</li>
               <li>Méret: 10cm</li>
             </ul>
             <div>
@@ -73,12 +73,12 @@ const Marvel = () => {
 
         <div className="col-sm-6">
           <div className="keptarto">
-            <img src="kepek/DrStrange.jfif" alt="teszta" />
+            <img src="kepek Marvel/DrStrange.jpg" alt="Dr.Strange" />
           </div>
           <div className="szovegtarto">
-            <h4>Dr Strange</h4>
+            <h4>Dr Strange bögre</h4>
             <ul>
-              <li>Ár: 3.500t</li>
+              <li>Ár: 3.499ft</li>
               <li>Anyag: Műanyag</li>
               <li>Méret: 10cm</li>
             </ul>
@@ -93,12 +93,12 @@ const Marvel = () => {
 
         <div className="col-sm-6">
           <div className="keptarto">
-            <img src="kepek/Hulk.jfif" alt="teszta" />
+            <img src="kepek Marvel/Hulk.jpg" alt="Hulk" />
           </div>
           <div className="szovegtarto">
             <h4>Hulk</h4>
             <ul>
-              <li>Ár: 2.500t</li>
+              <li>Ár: 2.999ft</li>
               <li>Anyag: Műanyag</li>
               <li>Méret: 10cm</li>
             </ul>
@@ -113,12 +113,12 @@ const Marvel = () => {
 
         <div className="col-sm-6">
           <div className="keptarto">
-            <img src="kepek/Lee.jfif" alt="teszta" />
+            <img src="kepek Marvel/Lee.jpg" alt="Stan Lee" />
           </div>
           <div className="szovegtarto">
             <h4>Stan Lee</h4>
             <ul>
-              <li>Ár: 3.500t</li>
+              <li>Ár: 3.499ft</li>
               <li>Anyag: Műanyag</li>
               <li>Méret: 10cm</li>
             </ul>
@@ -133,14 +133,14 @@ const Marvel = () => {
 
         <div className="col-sm-6">
           <div className="keptarto">
-            <img src="kepek/Marvelkap.jfif" alt="teszta" />
+            <img src="kepek Marvel/Marvelkap.jpg" alt="Marvel Kapitány" />
           </div>
           <div className="szovegtarto">
-            <h4>Marvel Kapitány</h4>
+            <h4>Marvel Sakk</h4>
             <ul>
-              <li>Ár: 3000t</li>
-              <li>Anyag: Műanyag</li>
-              <li>Méret: 10cm</li>
+              <li>Ár: 15.999ft</li>
+              <li>Anyag: Papír</li>
+              <li>Méret: 40x25cm</li>
             </ul>
             <div>
               Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cumque
@@ -153,12 +153,12 @@ const Marvel = () => {
 
         <div className="col-sm-6">
           <div className="keptarto">
-            <img src="kepek/Parduc.jfif" alt="teszta" />
+            <img src="kepek Marvel/Parduc.jpg" alt="Fekete Párduc" />
           </div>
           <div className="szovegtarto">
             <h4>Fekete párduc</h4>
             <ul>
-              <li>Ár: 4000t</li>
+              <li>Ár: 3999ft</li>
               <li>Anyag: Műanyag</li>
               <li>Méret: 10cm</li>
             </ul>
@@ -173,14 +173,14 @@ const Marvel = () => {
 
         <div className="col-sm-6">
           <div className="keptarto">
-            <img src="kepek/Sólyom.jfif" alt="teszta" />
+            <img src="kepek Marvel/Sólyom.jpg" alt="Sólyom" />
           </div>
           <div className="szovegtarto">
-            <h4>Sólyom</h4>
+            <h4>Deadpool mintás iskolatáska</h4>
             <ul>
-              <li>Ár: 2.500t</li>
-              <li>Anyag: Műanyag</li>
-              <li>Méret: 10cm</li>
+              <li>Ár: 12.999ft</li>
+              <li>Anyag: Textil</li>
+              <li>Méret: 35x20cm</li>
             </ul>
             <div>
               Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cumque
@@ -193,12 +193,12 @@ const Marvel = () => {
 
         <div className="col-sm-6">
           <div className="keptarto">
-            <img src="kepek/Spider.jfif" alt="teszta" />
+            <img src="kepek Marvel/Spider.jpg" alt="Spiderman" />
           </div>
           <div className="szovegtarto">
             <h4>Pókember</h4>
             <ul>
-              <li>Ár: 2.500t</li>
+              <li>Ár: 2.999ft</li>
               <li>Anyag: Műanyag</li>
               <li>Méret: 10cm</li>
             </ul>
@@ -213,12 +213,12 @@ const Marvel = () => {
 
         <div className="col-sm-6">
           <div className="keptarto">
-            <img src="kepek/Tanosz.jfif" alt="teszta" />
+            <img src="kepek Marvel/Tanosz.jpg" alt="Thanos" />
           </div>
           <div className="szovegtarto">
             <h4>Thanos</h4>
             <ul>
-              <li>Ár: 2.500t</li>
+              <li>Ár: 2.999ft</li>
               <li>Anyag: Műanyag</li>
               <li>Méret: 10cm</li>
             </ul>
@@ -233,12 +233,12 @@ const Marvel = () => {
 
         <div className="col-sm-6">
           <div className="keptarto">
-            <img src="kepek/Thor.jfif" alt="teszta" />
+            <img src="kepek Marvel/Thor.jpg" alt="Thor" />
           </div>
           <div className="szovegtarto">
             <h4>Thor</h4>
             <ul>
-              <li>Ár: 2.500t</li>
+              <li>Ár: 2.999ft</li>
               <li>Anyag: Műanyag</li>
               <li>Méret: 10cm</li>
             </ul>

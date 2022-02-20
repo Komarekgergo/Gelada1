@@ -12,23 +12,91 @@ const Fololdal = () => {
         <div className="col-sm-4">
           <Link to="/marvel">
             <img
-              src="kepek/Amerika.jfif"
+              src="kepek Marvel/Marvel poster.jpg"
               alt="Amerika Kapitany"
               className="img-thumbnail"
             />
           </Link>
         </div>
+
         <div className="col-sm-4">
           <Link to="/dc">
             <img
-              src="kepek/Amerika.jfif"
-              alt="Amerika Kapitany"
+              src="kepek Dc/DC logo.jpg"
+              alt="DC Univerzum"
               className="img-thumbnail"
             />
           </Link>
         </div>
+
         <div className="col-sm-4">
-          <img src="kepek/DrStrange.jpg" alt="" />
+          <Link to="/hpotter">
+            <img
+              src="kepek HP/HP logo.jpg"
+              alt="Harry Potter filmek"
+              className="img-thumbnail"
+            />
+          </Link>
+        </div>
+
+        <div className="col-sm-4">
+          <Link to="/SW">
+            <img
+              src="kepek SW/starwars logo.jpg"
+              alt="Star Wars univerzum"
+              className="img-thumbnail"
+            />
+          </Link>
+        </div>
+
+        <div className="col-sm-4">
+          <Link to="/got">
+            <img
+              src="kepek GoT/GoT logo.jpg"
+              alt="Game of Thrones"
+              className="img-thumbnail"
+            />
+          </Link>
+        </div>
+
+        <div className="col-sm-4">
+          <Link to="/witcher">
+            <img
+              src="kepek witcher/witcher logo.jpg"
+              alt="The Witcher"
+              className="img-thumbnail"
+            />
+          </Link>
+        </div>
+
+        <div className="col-sm-4">
+          <Link to="/rm">
+            <img
+              src="kepek RM/RM logo.jpg"
+              alt="RM"
+              className="img-thumbnail"
+            />
+          </Link>
+        </div>
+
+        <div className="col-sm-4">
+          <Link to="/disney">
+            <img
+              src="kepek DY/Disney logo.jpg"
+              alt="Disney"
+              className="img-thumbnail"
+            />
+          </Link>
+        </div>
+
+        <div className="col-sm-4">
+          <Link to="/assassin">
+            <img
+              src="kepek AS/assassin logo.jpg"
+              alt="Disney"
+              className="img-thumbnail"
+            />
+          </Link>
         </div>
       </div>
     </div>

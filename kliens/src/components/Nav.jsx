@@ -16,6 +16,11 @@ const Nav = () => {
                 Főoldal
               </Link>
             </li>
+            <li className="nav-item">
+              <Link className="nav-link" to="/figura">
+                 Figurák
+              </Link>
+            </li>
             {/* <li className="nav-item">
               <Link className="nav-link" to="/aloldal">
                 Aloldal

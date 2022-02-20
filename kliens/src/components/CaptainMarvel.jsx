@@ -7,8 +7,8 @@ const CaptainMarvel = () => {
         <div className="col-sm-5">
           <div className="kep">
             <img
-              src="kepek/Amerika.jfif"
-              alt="tészta"
+              src="kepek Marvel/Amerika.jpg"
+              alt="Marvel"
               style={{
                 width: "100%",
               }}
@@ -22,9 +22,10 @@ const CaptainMarvel = () => {
             <h1>Amerika Kapitány</h1>
             <h4>Részletek</h4>
             <ul>
-              <li>első</li>
-              <li>második</li>
-              <li>harmadik</li>
+              <li>Műanyag</li>
+              <li>Gyűjtői darab</li>
+              <li>10cm</li>
+              <li>2500ft</li>
             </ul>
           </div>
         </div>
@@ -37,20 +38,26 @@ const CaptainMarvel = () => {
       <div className="row">
         <div className="col-sm-3">
           <div className="elemtarto">
-            <img src="kepek/Thor.jfif" alt="" />
+            <img src="kepek Marvel/Thor.jpg" alt="" />
             <h3>Thor</h3>
             <p>2000Ft</p>
             {/* <input type="button" className="btn btn-primary" value="Kosárba" /> */}
           </div>
         </div>
         <div className="col-sm-3">
-          <img src="kepek/Thor.jfif" alt="" />
+          <img src="kepek Marvel/Spider.jpg" alt="" />
+          <h3>Spiderman</h3>
+          <p>2000Ft</p>
         </div>
         <div className="col-sm-3">
-          <img src="kepek/Thor.jfif" alt="" />
+          <img src="kepek Marvel/Parduc.jpg" alt="" />
+          <h3>Thor</h3>
+          <p>3500Ft</p>
         </div>
         <div className="col-sm-3">
-          <img src="kepek/Thor.jfif" alt="" />
+          <img src="kepek Marvel/Tanosz.jpg" alt="" />
+          <h3>Thanos</h3>
+          <p>2000Ft</p>
         </div>
       </div>
     </div>

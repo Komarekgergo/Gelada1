@@ -11,7 +11,7 @@ const Contact = () => {
     <div className="container">
       <div className="row">
         <div className="col-sm-4">
-          <img id="gelada" src="kepek/Gelada.png" />
+          <img id="gelada" src="kepek Marvel/Gelada.png" />
         </div>
         <div className="col-sm-4" style={contactStilus}>
           <p style={{ fontSize: "3em" }}>Gelada Shop</p>

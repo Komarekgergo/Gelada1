@@ -17,6 +17,12 @@ import RM from "./components/RM";
 import Disney from "./components/Disney";
 import Assassin from "./components/Assassin";
 import Figura from "./components/Figura";
+import Jurassic from "./components/Jurassic";
+import Szulejman from "./components/Szulejman";
+import Stranger from "./components/Stranger";
+
+
+
 
 
 
@@ -42,6 +48,9 @@ function App() {
           <Route path="/disney" element={<Disney />} />
           <Route path="/assassin" element={<Assassin />} />
           <Route path="/figura" element={<Figura />} />
+          <Route path="/jurassic" element={<Jurassic />} />
+          <Route path="/szulejman" element={<Szulejman />} />
+          <Route path="/stranger" element={<Stranger />} />
           <Route path="/captainmarvel" element={<CaptainMarvel />} />
         </Routes>
       </Router>

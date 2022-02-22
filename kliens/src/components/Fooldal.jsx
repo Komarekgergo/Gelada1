@@ -98,6 +98,38 @@ const Fololdal = () => {
             />
           </Link>
         </div>
+
+        <div className="col-sm-4">
+          <Link to="/jurassic">
+            <img
+              src="kepek JP/jurassic logo.jpg"
+              alt="Jurassic Park"
+              className="img-thumbnail"
+            />
+          </Link>
+        </div>
+
+
+        <div className="col-sm-4">
+          <Link to="/szulejman">
+            <img
+              src="kepek Sul/szulejman logo.jpg"
+              alt="Szulejmán"
+              className="img-thumbnail"
+            />
+          </Link>
+        </div>
+
+        <div className="col-sm-4">
+          <Link to="/stranger">
+            <img
+              src="kepek Str/stranger logo.jpg"
+              alt="Stranger Things"
+              className="img-thumbnail"
+            />
+          </Link>
+        </div>
+
       </div>
     </div>
     // <div className="container">

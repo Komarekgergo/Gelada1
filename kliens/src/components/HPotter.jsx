@@ -11,7 +11,7 @@ const HPotter = () => {
             <Link to="/CaptainMarvel">
               <img
                 src="kepek HP/harry-potter-iroszer-csomag.jpg"
-                alt="DC"
+                alt="HP"
                 className="img-thumbnail"
               />
             </Link>
